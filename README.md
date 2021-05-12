@@ -29,6 +29,7 @@ it's helper js library which provide :
   
 #example
 
+
   ex1:   
 
     http://localhost:3000/product/8728374287348237482634

@@ -1,0 +1,19 @@
+{
+  "name": "location-changer-js",
+  "version": "1.0.0",
+  "description": "This library can find the relative path of the current location in the brwoser when you are in the (Next.js project or similar React.js projects)",
+  "main": "LocationChangejs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "locationchanger",
+    "locationfinder"
+  ],  
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Salman-Samian/location-changer-js.git"
+  },
+  "author": "Salman Samian",
+  "license": "ISC"
+}

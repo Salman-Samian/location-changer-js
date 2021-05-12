@@ -5,7 +5,7 @@ This library can find the relative path of the current location in the brwoser w
 
 
 # installation
-    npm install LocationChangejs
+    npm install location-changer-js
 
 
 

@@ -35,6 +35,7 @@ it's helper js library which provide :
 
     http://localhost:3000/product/8728374287348237482634
     
+    in return => "/product/8728374287348237482634"
     
     
   
@@ -42,5 +43,7 @@ it's helper js library which provide :
   ex2:   
 
     http://localhost:3000/product#/
+    
+    in return => "/product"
     
     

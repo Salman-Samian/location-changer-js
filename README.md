@@ -18,7 +18,7 @@ This library can find the relative path of the current location in the brwoser w
 
 
 
-#consideration
+# consideration
 
 it's helper js library which provide :
   you can use this library in all js and jsx projects.
@@ -28,10 +28,10 @@ it's helper js library which provide :
   
   
   
-#example
+# example
 
 
-  ex1:   
+  # ex1:   
 
     http://localhost:3000/product/8728374287348237482634
     
@@ -40,7 +40,7 @@ it's helper js library which provide :
     
   
     
-  ex2:   
+  # ex2:   
 
     http://localhost:3000/product#/
     

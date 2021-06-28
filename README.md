@@ -11,7 +11,7 @@ This library can find the relative path of the current location in the brwoser w
 
 # usage
     
-    import LocationChangejs from 'LocationChangejs'
+    import LocationChangejs from 'location-changer-js'
 
 
     var resultpath = LocationChangejs.getCurrentURLPath(location.href);

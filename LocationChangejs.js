@@ -19,5 +19,4 @@ LocationChangerJs.getCurrentURLPath = async (href) => {
      }
 };
 
-
-export default LocationChangerJs;
+module.exports = LocationChangerJs;
